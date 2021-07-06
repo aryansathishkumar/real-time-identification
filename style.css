@@ -1,0 +1,54 @@
+.heading
+{
+    font-size: 35px;
+    box-shadow: 1px 1px 70px orange;
+    background-color: yellow;
+    color: black;
+    letter-spacing: 3px;
+}
+#background
+{
+    background-image: url("background.jpg");
+}
+#color-h3
+{
+    color: black;
+    font-size: xx-large;
+    background-color: orange;
+    width: 500px;
+    border-radius: 50px;
+}
+.color
+{
+    font-size: xx-large;
+    background-color: red;
+}
+#color2
+{
+    background-color: cyan;
+    color: black;
+    font-size: x-large;
+}
+#div_header
+{
+    background-color: blue;
+}
+#color-h3:hover
+{
+    background-color: white;
+}
+canvas
+{
+    border: 10px solid gold;
+    border-radius: 25px;
+    box-shadow: 2px 2px 55px grey;
+    margin-top: 170px;
+}
+#footer
+{
+    background-color: black;
+    color: white;
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+}
